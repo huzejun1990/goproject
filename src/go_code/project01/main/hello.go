@@ -12,6 +12,6 @@ func main() {
 	fmt.Println("hello")
 
 	//定义一个变量,如果你没有使用这个变量，就会编译无法通过
-	var num = 10
+	//var num = 10
 
 }
