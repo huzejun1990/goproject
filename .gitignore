@@ -47,3 +47,4 @@ data_*/
 *.uxt
 
 /src/go_code/project01/
+.idea/
